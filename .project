@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>SeleniumMavenProject</name>
+=======
+	<name>DDTproject</name>
+>>>>>>> 23379caeb89c2feeefd957c3a999b73d01b57f2e
 	<comment></comment>
 	<projects>
 	</projects>
